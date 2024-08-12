@@ -1,1 +1,2 @@
-# final_project_mini_bootcamp_excel_myskill
+# Final Project
+Merupakan projek akhir mengikuti bootcamp Excel dari MySkill.
